@@ -1,0 +1,6 @@
+*.pyc
+.vscode
+output
+data
+DepthAnythingV2/depth_anything_v2_vitb.pth
+debug

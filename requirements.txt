@@ -1,0 +1,12 @@
+plyfile
+tqdm
+matplotlib
+opencv-python
+joblib
+timm==0.6.7
+# Pytorch3D (Make sure CUDA and PyTorch versions match; here is for CUDA 11.8, PyTorch 2.0.1)
+pytorch3d==0.7.4+pt201cu118 @ https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py38_cu118_pyt201/download.html
+
+# Local submodules (install in editable mode after cloning)
+-e submodules/diff-gaussian-rasterization-depth-acc
+-e submodules/simple-knn
