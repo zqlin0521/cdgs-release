@@ -30,6 +30,8 @@ CDGS enhances the original 3DGS with two key components:
 
 ## Installation
 
+**Note**: This code was tested on **Ubuntu 22.04** with **CUDA 11.8**.
+
 Follow these steps to install the necessary dependencies and set up the project:
 
 1. **Clone the Repository**  
